@@ -78,7 +78,7 @@
  - 딥러닝 모델: TensorFlow, Keras
  - 버전 관리: GitHub
  - 기타 도구: Jupyter Notebook, Google Colab, Kaggle
-
+ - 데이터셋 출처 : https://www.kaggle.com/datasets/javivaleiras/football-player-stats-and-transfers 
 
 
 
