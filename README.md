@@ -15,9 +15,9 @@
 
 
 
-| 박진우 | 권주연 | 서혜선 | 정민철 | 한승희 |
+| 한승희 | 권주연 | 서혜선 | 정민철 | 박진우 |
 |:---:|:---:|:---:|:---:|:---:|
-| [@pjw876](https://github.com/pjw876) | [@juyeonkwon](https://github.com/juyeonkwon) | [@hyeseon](https://github.com/hyeseon7135) | [@jeong-mincheol](https://github.com/jeong-mincheol) | [@seunghee-han](https://github.com/seunghee-han) |
+| [@seunghee-han](https://github.com/seunghee-han) | [@juyeonkwon](https://github.com/juyeonkwon) | [@hyeseon](https://github.com/hyeseon7135) | [@jeong-mincheol](https://github.com/jeong-mincheol) | [@pjw876](https://github.com/pjw876) |
 
 
 
